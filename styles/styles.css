@@ -1,0 +1,28 @@
+/* Establecer el estilo del título. */
+h1{
+    font-family: 'Orbitron', sans-serif;
+    text-align: center;
+    /* color: azure; */
+}
+
+tr{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color:rgb(223, 0, 100);
+    text-shadow: 7px;
+    font-size: 37px;    
+}
+
+a{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-style: italic;
+    color:rgb(0, 223, 149);
+    text-shadow: 7px;
+    font-size: 37px;
+}
+
+/* Establecer valores de renderizado en el cuerpo de la página. */
+body{
+    background-color: rgb(60, 55, 55);
+}
